@@ -8,7 +8,7 @@ PowerShell script to extract pptx slides with titles containing specified words.
 
 # Example
 ```powershell
-> .\ExtractSlides.ps1 .\src.pptx .\dst.pptx B,C
+> .\ExtractSlides.ps1 src.pptx dst.pptx B,C
 SrcFile: .\src.pptx SrcFilePath: \path\to\src.pptx
 DstFile: .\dst.pptx DstFilePath: \path\to\dst.pptx
 Word List: B C
